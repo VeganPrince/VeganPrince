@@ -3,13 +3,15 @@
 - 📚 Instituto Federal de Sergipe (IFS) - Campus Aracaju
 - 🖥 Estudando Java, JavaScript e PHP
 - 🏳‍🌈 Pronouns: ele/dele
+
+ ##
  <div>
   <a href="https://github.com/veganprince">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=veganprince&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = "300vh" width = "250vw" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veganprince&layout=compact&langs_count=16&theme=dracula"/>
+  <img height = "150vh" src = "https://github-readme-stats.vercel.app/api?username=veganprince&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height = "400vh" width = 350vw" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veganprince&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
-  ##
+ ## 
   
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "JAVA" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
