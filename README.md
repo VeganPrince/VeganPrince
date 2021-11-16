@@ -7,7 +7,7 @@
  ##
  <div>
   <a href="https://github.com/veganprince">
-  <img height = "150vh" src = "https://github-readme-stats.vercel.app/api?username=veganprince&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height = "150vh" src = "https://github-readme-stats.vercel.app/api?username=veganprince&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> <br>
   <img height = "400vh" width = 350vw" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=veganprince&layout=compact&langs_count=16&theme=dracula"/>
 </div>
  
