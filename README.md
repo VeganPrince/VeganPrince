@@ -1,7 +1,8 @@
 ### Olá! Aqui é o Alexandre, muito prazer!!!
 
 - 📚 Instituto Federal de Sergipe (IFS) - Campus Aracaju
-- 🖥 Estudando Java, JavaScript e PHP
+- 🖥 Estudando: React e Flutter
+- Java, JavaScript e PHP
 - 🏳‍🌈 Pronouns: ele/dele
 
  ##
