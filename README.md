@@ -13,6 +13,7 @@
 </div>
   
 <div style = "display: inline_block"> 
+                                    ##
                                     <h2>Tecnologias que possui conhecimento:</h2>
                                     <br>
   <img align = "center" alt = "JAVA" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
