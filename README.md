@@ -15,6 +15,15 @@
  
 <div style = "display: inline_block"> 
  
+ ### Estudando:
+ 
+   <img align = "center" alt = "ReactJS" height = "30" width = "40" src = "https://cdn-icons-png.flaticon.com/512/1260/1260775.png">
+  <img align = "center" alt = "Flutter" height = "30" width = "40" src = "https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
+ 
+ </div>
+ 
+<div style = "display: inline_block"> 
+ 
  ##
  
   ### Tecnologias que possui conhecimento:
@@ -23,6 +32,7 @@
   <img align = "center" alt = "PHP" height = "50" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align = "center" alt = "HTML" height = "50" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align = "center" alt = "CSS" height = "50" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+ 
 </div>
     
  ##
