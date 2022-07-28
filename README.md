@@ -17,9 +17,10 @@
  
  ### Estudando:
  
-   <img align = "center" alt = "ReactJS" height = "30" width = "40" src = "https://cdn-icons-png.flaticon.com/512/1260/1260775.png">
-  <img align = "center" alt = "Flutter" height = "30" width = "40" src = "https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
- 
+   <img align = "center" alt = "ReactJS" height = "40" width = "40" src = "https://cdn-icons-png.flaticon.com/512/1260/1260775.png">
+  <img align = "center" alt = "Flutter" height = "40" width = "40" src = "https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png">
+  <img align = "center" alt = "Next" height = "40" width = "40" src = "https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67">
+  
  </div>
  
 <div style = "display: inline_block"> 
