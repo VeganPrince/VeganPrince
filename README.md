@@ -3,7 +3,7 @@
 
 - 📚 Instituto Federal de Sergipe (IFS) - Campus Aracaju
 - 🖥 Estudando: React, Next.js e Flutter
-- 💻 Java, JavaScript e PHP
+- 💻 JavaScript, Java e PHP
 - 🏳‍🌈 Pronouns: ele/dele
 
  ##
