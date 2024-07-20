@@ -1,4 +1,4 @@
-# Bem-vindo(a,e)!!!
+# Boas-Vindas!!!
 ### Olá! Aqui é o Alexandre, muito prazer!!!
 
 - 📚 Técnico em Informática | Instituto Federal de Sergipe (IFS) - Campus Aracaju
